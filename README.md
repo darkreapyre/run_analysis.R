@@ -16,4 +16,3 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 Extract it into the data directory under your R working directory.
 
 You can run R code run_analysis.R or source it. It will generate a text file named "FinalData.txt". This is the required data set.
-
