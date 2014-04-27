@@ -52,4 +52,4 @@ colnames(Tidy)[3:ncol(Tidy)] <- colnames(MeanSD)
 
 write.table(Tidy, file = "FinalData.txt")
 
-#Final<-read.table("./FinalData.txt")
+#Final<-read.table("./FinalData.txt") 
